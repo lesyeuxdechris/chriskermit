@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @chriskermit
-- 👀 I’m interested in *tba*.
+- 👋 Hi, I’m Chris.
+<!-- - 👀 I’m interested in *tba*. -->
 - 🌱 I’m currently learning how to code.
 <!-- - 💞️ I’m looking to collaborate on to be honest, nothing now. -->
 - 📫 How to reach me? - Email me at: chriskermit@waddlegames.tk
