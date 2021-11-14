@@ -2,7 +2,7 @@
 <!-- - 👀 I’m interested in *tba*. -->
 - 🌱 I’m currently learning how to code.
 <!-- - 💞️ I’m looking to collaborate on to be honest, nothing now. -->
-- 📫 How to reach me? - Email me at: chriskermit@waddlegames.tk
+- 📫 How to reach me? - cchris#8370 on Discord, chris.kermit@moonlightstudios.xyz - email.
 
 <!---
 chriskermit/chriskermit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
